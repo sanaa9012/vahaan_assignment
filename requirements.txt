@@ -1,0 +1,9 @@
+streamlit
+requests
+arxiv
+google-generativeai
+langgraph
+unstructured
+lxml
+pypdf
+python-magic
